@@ -30,7 +30,7 @@ and this dependency
         <dependency>
             <groupId>com.sillelien</groupId>
             <artifactId>dollar-mapdb</artifactId>
-            <version>0.1.8</version>
+            <version>0.1.10</version>
         </dependency>
 ```
 
