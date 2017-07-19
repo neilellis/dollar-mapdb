@@ -4,7 +4,7 @@ Build: [![Circle CI](https://circleci.com/gh/sillelien/dollar-mapdb.png?style=ba
 
 [ ![Download](https://api.bintray.com/packages/sillelien/maven/dollar-mapdb/images/download.svg) ](https://bintray.com/sillelien/maven/dollar-mapdb/_latestVersion)
 
-#Dollar MapDB [![Beta](https://img.shields.io/badge/Status-Beta-green.svg?style=flat)](http://github.com/sillelien/dollar-mapdb)
+# Dollar MapDB [![Beta](https://img.shields.io/badge/Status-Beta-green.svg?style=flat)](http://github.com/sillelien/dollar-mapdb)
 
 MapDB wrapped up for use in Dollar.
 
@@ -30,7 +30,7 @@ and this dependency
         <dependency>
             <groupId>com.sillelien</groupId>
             <artifactId>dollar-mapdb</artifactId>
-            <version>0.1.6</version>
+            <version>0.1.8</version>
         </dependency>
 ```
 
