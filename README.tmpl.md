@@ -31,7 +31,3 @@ and this dependency
             <version>${RELEASE}</version>
         </dependency>
 ```
-
-${BLURB}
-
-${FOOTER}
