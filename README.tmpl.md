@@ -2,7 +2,7 @@
 
 ${HEADER}
 
-#Dollar MapDB ${STATE_BETA}
+# Dollar MapDB ${STATE_BETA}
 
 MapDB wrapped up for use in Dollar.
 
